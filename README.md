@@ -1,10 +1,14 @@
-## Welcome to Amr Tarek's profile 👋
 
- <br>
+<h1 align="center">Welcome to Amr Tarek's profile 👋</h1>
+<h3 align="center" style="blue">Mern stack developer </h3> <br>
 
 # 💫 About Me:
 ### Hello! I'm Amr, a passionate and dedicated junior web developer with a keen interest in crafting exceptional user experiences through clean and efficient code. I thrive on the challenges that web development presents and enjoy continuously learning and growing in this ever-evolving field.
-🔭 I’m currently working as a Full Stack developer <br>📫 How to reach me: amrtarek1097@gmail.com <br><br>
+🔭 I’m currently working as **Full Stack developer** <br>
+🌱 I’m currently learning **NextJS, tailwind and nestJS**<br>
+💬 Ask me about **Javascript, ReactJS, and NodeJS or web development topics.**<br>
+📄 Know about my experiences [My resume](https://drive.google.com/file/d/1VB2HI8A39tkfnq2s_v3k7p9zjv0FQebQ/view?usp=drive_link)<br>
+📫 How to reach me: amrtarek1097@gmail.com <br>
 
 ### Skills
 
@@ -14,7 +18,7 @@
 - **Version Control:** Experienced in using Git and GitHub for efficient collaboration and version control in team projects.
 - **Problem-Solving:** Strong problem-solving and analytical skills, with an ability to break down complex issues and find practical solutions.
 - **Continuous Learning:** A lifelong learner who actively seeks out new technologies and stays up to date with the latest trends in web development.
-- 
+  
   <br>
   <br>
 	
@@ -51,6 +55,7 @@
  <br>
   <br>
   <br>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AmrTarek1097&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
