@@ -1,6 +1,10 @@
 
-<h1 align="center">Welcome to Amr Tarek's profile 👋</h1>
-<h3 align="center" style="blue">Mern stack developer </h3> <br>
+<h1 align="center">Welcome to Amr Tarek's profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1500&center=true&vCenter=true&width=435&lines=Full-stack+web+developer+;Where+there's+a+will%2C+there's+a+way"></a>
+</p> 
+<br>
 
 # 💫 About Me:
 ### Hello! I'm Amr, a passionate and dedicated junior web developer with a keen interest in crafting exceptional user experiences through clean and efficient code. I thrive on the challenges that web development presents and enjoy continuously learning and growing in this ever-evolving field.
