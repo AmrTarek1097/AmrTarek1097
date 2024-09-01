@@ -8,7 +8,7 @@
 # 💫 About Me:
 ### Hello! I'm Amr, a passionate and dedicated junior web developer with a keen interest in crafting exceptional user experiences through clean and efficient code. I thrive on the challenges that web development presents and enjoy continuously learning and growing in this ever-evolving field.
 
-🌱 I’m currently learning **NextJS, and React Queary**<br>
+🌱 I’m currently learning **NestJS, SQL database**<br>
 💬 Ask me about **Javascript, ReactJS, and NodeJS or web development topics and technologies.**<br>
 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1j8pk4d7OinEc47iuGMCC2oZ7DiWL9QhE/view?usp=drive_link)<br>
 📫 How to reach me: amrtarek1097@gmail.com <br>
